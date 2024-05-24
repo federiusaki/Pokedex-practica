@@ -1,7 +1,6 @@
 import React from 'react';
 import PokemonList from './components/PokemonList';
 import PokemonSearch from './components/PokemonSearch';
-import PokemonInfo from './components/pokeColor';
 import './App.css';
 
 function App() {
